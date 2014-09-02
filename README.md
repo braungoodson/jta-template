@@ -1,7 +1,25 @@
-jta-template
+Intro to AngularJS for Developers
 ======
 
-jquery, twitter, and angularjs template. with express server.
+basic template for angular development
+
+requirements
+======
+
+ * git
+ * node
+ * npm
+ * bower
+ * editor
+
+packages
+======
+
+ * bower
+ * express
+ * jquery
+ * bootstrap
+ * angular
 
 usage
 ======
