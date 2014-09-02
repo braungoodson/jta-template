@@ -1,9 +1,9 @@
 Intro to AngularJS for Developers
 ======
 
-basic template for angular development
+Basic template for angularjs module development.
 
-requirements
+Requirements
 ======
 
  * git
@@ -12,7 +12,7 @@ requirements
  * bower
  * editor
 
-packages
+Packages
 ======
 
  * bower
@@ -21,7 +21,7 @@ packages
  * bootstrap
  * angular
 
-usage
+Usage
 ======
 
     $ npm install
